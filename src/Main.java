@@ -16,5 +16,9 @@ public class Main {
                 count1++;
             }
         }
+
+        for(int i = 0; i < arr2.length;i++){
+            System.out.println(arr2[i]);
+        }
     }
 }
